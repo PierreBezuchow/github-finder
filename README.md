@@ -6,5 +6,7 @@ Search for username to fetch user's profile and repos
 - Fetching and displaying user repos
 - Showing alert
 
+UI created with Bootswatch
+
 ### Preview:
 ![alt-text](https://github.com/PierreBezuchow/github-finder/blob/master/img/github-finder-screenshhot.png)
